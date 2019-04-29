@@ -9,5 +9,5 @@ DataDirectory /var/lib/tor/data
 ORPort 9001
 DirPort 9030
 ExitRelay 0
-BandwidthRate 5 MBits
+BandwidthRate 24 MBits
 ContactInfo rortor@rorvick.com
